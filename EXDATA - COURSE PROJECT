@@ -101,7 +101,7 @@ plot3 <- function() {
 plot3()
 plot3.png has been saved in C:/Users/User/Documents
 
-D-) GLOBAL ACTIVE POWER AND NERGY SUB METERING
+D-) GLOBAL ACTIVE POWER AND ENERGY SUB METERING
 
  plot4 <- function() {
 +     par(mfrow=c(2,2))
